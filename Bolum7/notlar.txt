@@ -1,0 +1,81 @@
+Hatice Günday -----------------> FD
+Mustafa Akyürek -----------------> CB
+Ramazan Topaloğlu -----------------> DERS TEKRARI
+Elif Akşit -----------------> DC
+Mehmet Düşenkalkar -----------------> DERS TEKRARI
+Hatice Dağdaş -----------------> BA
+Merve Tütüncü -----------------> DERS TEKRARI
+Hatice Pekkan -----------------> DD
+Merve Alyanak -----------------> FF
+Meryem Aşıkoğlu -----------------> FD
+Süleyman Uluhan -----------------> FD
+Esra Ekici -----------------> DERS TEKRARI
+Emine Kumcuoğlu -----------------> DC
+Süleyman Kumcuoğlu -----------------> DERS TEKRARI
+Şerife Kumcuoğlu -----------------> DD
+Sude Tekand -----------------> CB
+Elif Nebioğlu -----------------> DERS TEKRARI
+Sude Berberoğlu -----------------> FF
+Yasemin Durmaz -----------------> DERS TEKRARI
+Fadime Akyürek -----------------> DD
+Fatma Akşit -----------------> DC
+Emre Sözeri -----------------> DERS TEKRARI
+Yasemin Kurutluoğlu -----------------> DERS TEKRARI
+Fatma Akman -----------------> DERS TEKRARI
+Hacer Korol -----------------> CB
+Recep Altınbaş -----------------> DC
+Murat Numanoğlu -----------------> AA
+Fatih Fahri -----------------> DERS TEKRARI
+Halil Sarıoğlu -----------------> FF
+Merve Arıcan -----------------> DERS TEKRARI
+İsmail Kaplangı -----------------> DERS TEKRARI
+Emir Egeli -----------------> DD
+Havva Erbulak -----------------> DERS TEKRARI
+Hacer Okumuş -----------------> CB
+Salih Ağaoğlu -----------------> DERS TEKRARI
+Zeliha Ağaoğlu -----------------> DC
+Abdullah Solmaz -----------------> FF
+Fatih Elmastaşoğlu -----------------> DERS TEKRARI
+Hacer Karaer -----------------> CB
+Sude Kumcuoğlu -----------------> DERS TEKRARI
+Abdullah Kuzucu -----------------> FD
+Hanife Söyler -----------------> DC
+Sude Orbay -----------------> DERS TEKRARI
+Sultan Uluç -----------------> DC
+Hanife Beşok -----------------> CC
+Hülya Karadaş -----------------> FD
+Fatma Tuğluk -----------------> DERS TEKRARI
+Halil Güçlü -----------------> DC
+Recep Eronat -----------------> FD
+Büşra Koyuncu -----------------> DC
+Hüseyin Kunt -----------------> DERS TEKRARI
+Halil Numanoğlu -----------------> FD
+Hülya Gürmen -----------------> DC
+Ömer Kulaksızoğlu -----------------> DERS TEKRARI
+Zeliha Demirel -----------------> CC
+Mustafa Aşıkoğlu -----------------> CB
+Süleyman Orbay -----------------> CB
+İbrahim Erez -----------------> DERS TEKRARI
+Süleyman Koçyiğit -----------------> FD
+Salih Orbay -----------------> DERS TEKRARI
+Şerife Süleymanoğlu -----------------> CC
+Murat Adal -----------------> CC
+Osman Aybar -----------------> DD
+Sude Balcı -----------------> DERS TEKRARI
+Zeynep Koyuncu -----------------> DD
+İbrahim Pekkan -----------------> DERS TEKRARI
+Fatih Erdoğan -----------------> DERS TEKRARI
+Abdullah Ekşioğlu -----------------> DERS TEKRARI
+Osman Adan -----------------> FD
+Ramazan Paksüt -----------------> DERS TEKRARI
+Halil Gökgöz -----------------> DERS TEKRARI
+Emre Kurutluoğlu -----------------> BA
+Mahmut Akışık -----------------> DERS TEKRARI
+Yusuf Hamzaoğlu -----------------> CB
+Ali Akan -----------------> BA
+Zeliha Beşerler -----------------> DD
+Ali Oraloğlu -----------------> DERS TEKRARI
+Hanife Poçan -----------------> DERS TEKRARI
+Ayşe Kurutluoğlu -----------------> FF
+Fatih Akman -----------------> FD
+Mehmet Babacan -----------------> DERS TEKRARI
